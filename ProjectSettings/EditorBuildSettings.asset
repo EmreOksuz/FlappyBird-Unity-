@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AnaMenu.unity
+    guid: c4bcb5355d979564e82d79a81cda2d85
+  - enabled: 1
+    path: Assets/SahneFlap.unity
+    guid: 4d387e55b1ee3c340b75dbd4e4c6288c

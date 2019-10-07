@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AnaMenu.unity
+  isLoaded: 1
+  isActive: 1
